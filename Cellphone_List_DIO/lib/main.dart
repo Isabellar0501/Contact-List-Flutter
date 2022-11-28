@@ -53,6 +53,7 @@ class _MyHomePageState extends State<MyHomePage> {
 
     contatos.add(Contato(
         nome: 'Perondi', telefone: '+11999999999', tipo: ContatoType.CELULAR));
+
     contatos.add(Contato(
         nome: 'Ricardo', telefone: '+11999999999', tipo: ContatoType.WHATSAPP));
 
